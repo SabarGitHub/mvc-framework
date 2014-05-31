@@ -1,0 +1,12 @@
+{
+	"require": {
+		"petty/framework":"dev-master"
+	},
+	"repositories":[
+		{
+			"type":"vcs",
+			"url": "git@192.168.0.1:/media/wd/repositories/projets/petty.git"
+		}
+	]
+
+}

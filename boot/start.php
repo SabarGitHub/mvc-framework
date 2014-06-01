@@ -5,8 +5,17 @@
  */
 $app = new Core\Application\Application;
 
-$petty = '../vendor/petty/framework/src';
+/**
+ * Installation des chemins
+ */
+$app->installPath(require __DIR__.'/paths.php');
 
-require $petty.'/Core/Boot/start.php';
+/**
+ * Invoque le lancement de la library
+ */
+require $app['path.petty'].'/Core/Boot/start.php';
 
+/**
+ * Retourne l'application
+ */
 return $app;

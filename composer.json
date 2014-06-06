@@ -1,6 +1,6 @@
 {
 	"require": {
-		"petty/framework":"dev-master"
+		"petty/framework":"dev-dev"
 	},
 	"repositories":[
 		{

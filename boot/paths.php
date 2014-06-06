@@ -8,6 +8,11 @@ return array(
 	'app' => __DIR__.'/../app',
 
 	/**
+	 * Chemin vers les bundles
+	 */
+	'psr0' => __DIR__.'/../app/Lib',
+
+	/**
 	 * Chemin vers la config
 	 */
 	'config' => __DIR__.'/../app/config',

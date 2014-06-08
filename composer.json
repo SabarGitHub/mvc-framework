@@ -5,7 +5,7 @@
 	"repositories":[
 		{
 			"type":"vcs",
-			"url": "git@192.168.0.1:/media/wd/repositories/projets/petty.git"
+			"url": "git@176.222.53.59:/media/wd/repositories/projets/petty.git"
 		}
 	]
 

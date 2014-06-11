@@ -3,7 +3,7 @@ namespace Lib\Base\Controllers;
 
 class BaseController
 {
-	public static function hello()
+	public function hello()
 	{
 		echo 'Hello';
 	}

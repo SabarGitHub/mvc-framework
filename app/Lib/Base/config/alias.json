@@ -1,5 +1,5 @@
 {
-	"Base\\Controller\\Controller": {
+	"Lib\\Base\\Controllers\\BaseController": {
 		"aliasProvider":"baseController",
 		"aliasClassName":"BaseController"
 	}

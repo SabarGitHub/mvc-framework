@@ -7,6 +7,10 @@
 			"type":"vcs",
 			"url": "git@176.222.53.59:/media/wd/repositories/projets/petty.git"
 		}
-	]
-
+	],
+	"autoload":{
+		"psr-0": {
+			"Lib":"app/"
+		}
+	}
 }

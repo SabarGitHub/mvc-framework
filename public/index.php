@@ -10,4 +10,9 @@ require __DIR__.'/../boot/autoload.php';
  */
 $app = require __DIR__.'/../boot/start.php';
 
+/**
+ * Démarrage
+ */
+$app->run();
+
 

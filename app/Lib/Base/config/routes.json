@@ -1,0 +1,6 @@
+{
+	"/":{
+		"controller":"BaseController",
+		"action":"index"
+	}
+}

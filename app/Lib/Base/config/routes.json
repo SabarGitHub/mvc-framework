@@ -1,6 +1,7 @@
-{
-	"/":{
+[
+	{
+		"url":"/",
 		"controller":"BaseController",
 		"action":"index"
 	}
-}
+]

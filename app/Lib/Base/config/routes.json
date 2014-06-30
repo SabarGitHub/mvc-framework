@@ -1,7 +1,10 @@
 [
 	{
-		"url":"/",
+		"url":"hello/{name}",
+		"where":{
+			"name":"string"
+		},
 		"controller":"BaseController",
-		"action":"index"
+		"action":"hello"
 	}
 ]

@@ -1,0 +1,12 @@
+{
+	"default":"mysql",
+	"connections": {
+		"mysql":{
+			"driver":"pdo_mysql",
+			"host":"localhost",
+			"database":"test",
+			"username":"root",
+			"password":"mysql"
+		}
+	}
+}

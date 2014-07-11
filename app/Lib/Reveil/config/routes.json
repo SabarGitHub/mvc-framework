@@ -1,0 +1,13 @@
+[
+	{
+		"url":"reveil",
+		"controller":"ReveilController",
+		"action":"index"
+	},
+	
+	{
+		"url":"reveil/add",
+		"controller":"ReveilController",
+		"action":"add"
+	}
+]

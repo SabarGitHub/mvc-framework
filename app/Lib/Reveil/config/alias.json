@@ -1,0 +1,9 @@
+{
+	"Lib\\Reveil\\Controllers\\ReveilController":{
+		"aliasProvider":"reveilController",
+		"aliasClassName":"ReveilController"
+	},
+	"Lib\\Reveil\\Form\\ReveilForm":{
+		"aliasProvider":"reveilForm"
+	}
+}

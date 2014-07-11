@@ -4,8 +4,8 @@
 		"mysql":{
 			"driver":"pdo_mysql",
 			"host":"localhost",
-			"database":"test",
-			"username":"root",
+			"dbname":"test",
+			"user":"root",
 			"password":"mysql"
 		}
 	}

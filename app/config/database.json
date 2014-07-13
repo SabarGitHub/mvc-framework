@@ -3,10 +3,10 @@
 	"connections": {
 		"mysql":{
 			"driver":"pdo_mysql",
-			"host":"localhost",
-			"dbname":"test",
-			"user":"root",
-			"password":"mysql"
+			"host":"",
+			"dbname":"",
+			"user":"",
+			"password":""
 		}
 	}
 }

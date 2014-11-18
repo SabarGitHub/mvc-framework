@@ -20,5 +20,5 @@ return array(
 	/**
 	 * Chemin vers le framework
 	 */
-	'petty' => __DIR__.'/../vendor/petty/framework/src'
+	'framework' => __DIR__.'/../vendor/jeans11/mvc-framework-core/src'
 );

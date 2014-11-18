@@ -1,14 +1,14 @@
 {
-	"name":"jeans/mvc-framework",
-	"require": {
-		"jeans11/mvc-framework-core":"master"
-	},
+	"name":"jeans11/mvc-framework",
 	"repositories":[
 		{
 			"type":"vcs",
 			"url": "https://github.com/jeans11/mvc-framework-core.git"
 		}
 	],
+	"require": {
+		"jeans11/mvc-framework-core":"dev-master"
+	},
 	"autoload":{
 		"psr-0": {
 			"Lib":"app/"

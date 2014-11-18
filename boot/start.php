@@ -13,7 +13,7 @@ $app->installPath(require __DIR__.'/paths.php');
 /**
  * Invoque le lancement de la library
  */
-require $app['path.petty'].'/Core/Boot/start.php';
+require $app['path.framework'].'/Core/Boot/start.php';
 
 /**
  * Retourne l'application

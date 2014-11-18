@@ -1,5 +1,5 @@
 {
-	"name":"jeans/MVCFramework",
+	"name":"jeans/mvc-framework",
 	"require": {
 		"jeans11/MVCFrameworkCore":"master"
 	},

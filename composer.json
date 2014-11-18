@@ -1,11 +1,12 @@
 {
+	"name":"jeans/MVCFramework",
 	"require": {
-		"petty/framework":"dev-dev"
+		"jeans11/MVCFrameworkCore":"master"
 	},
 	"repositories":[
 		{
 			"type":"vcs",
-			"url": "git@176.222.53.59:/media/wd/repositories/projets/petty.git"
+			"url": "https://github.com/jeans11/MVCFrameworkCore.git"
 		}
 	],
 	"autoload":{

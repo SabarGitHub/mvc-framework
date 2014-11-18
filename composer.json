@@ -1,7 +1,7 @@
 {
 	"name":"jeans/mvc-framework",
 	"require": {
-		"jeans11/MVCFrameworkCore":"master"
+		"jeans11/mvc-framework-core":"master"
 	},
 	"repositories":[
 		{

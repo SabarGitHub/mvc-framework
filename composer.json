@@ -6,7 +6,7 @@
 	"repositories":[
 		{
 			"type":"vcs",
-			"url": "https://github.com/jeans11/MVCFrameworkCore.git"
+			"url": "https://github.com/jeans11/mvc-framework-core.git"
 		}
 	],
 	"autoload":{
